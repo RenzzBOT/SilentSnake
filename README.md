@@ -2,7 +2,7 @@
 <details open>
   <summary><strong> Description </strong></summary>
 
-![1000_F_274590066_DdZU51d08RlO8S9ITAUWfMubb6NAQsZU-removebg-preview](https://kosred.com/a/zjjkdk.png)
+![1000_F_274590066_DdZU51d08RlO8S9ITAUWfMubb6NAQsZU-removebg-preview](https://ibb.co.com/TM9Lmz7z)
  <h2><img src="https://img.shields.io/badge/Author-RenzzX-blueviolet"/>
 <img src="https://img.shields.io/badge/Tool-SilentSnake-red"/>
 <img src="https://img.shields.io/badge/Made%20with-Python,%20bash%20and%20javascript-yellowgreen"/> <img src="https://img.shields.io/badge/Version-1.7-9cf"/>
@@ -16,7 +16,7 @@
   <hr>
   
 <p align="center">
-This tracking tool can provide information about the telephone number you entered. Not only that, this tool is able to scan phone numbers with up to 5 different methods. OwlTrack also has a menu to track email address information and scan websites to ensure they are safe to visit. I hope you enjoy this tool I created [Created By RenzzX]
+This tracking tool can provide information about the telephone number you entered. Not only that, this tool is able to scan phone numbers with up to 5 different methods. SilentSnake also has a menu to track email address information and scan websites to ensure they are safe to visit. I hope you enjoy this tool I created [Created By RenzzX]
   </details>
   
   <p align="center">
@@ -27,10 +27,6 @@ This tracking tool can provide information about the telephone number you entere
 | Developer | Here |
 |--------|--------|
 | **Github** |[Here](https://github.com/RenzzBOT) |
-| **WhatsApp** |[Here](https://wa.me/+6285649152599) |
-| **Instagram** |[Here](https://instagram.com/renzzzaja) |
-| **TikTok** |[Here](https://www.tiktok.com/@Renzzxraa) |
-| **Saweria** |[Here](https://saweria.co/Khoirun) |
 ---------
  
 # Github
