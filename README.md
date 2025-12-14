@@ -2,7 +2,7 @@
 <details open>
   <summary><strong> Description </strong></summary>
 
-![https://ibb.co.com/TM9Lmz7z](https://ibb.co.com/TM9Lmz7z)
+<img src="https://ibb.co.com/TM9Lmz7z/>
  <h2><img src="https://img.shields.io/badge/Author-RenzzX-blueviolet"/>
 <img src="https://img.shields.io/badge/Tool-SilentSnake-red"/>
 <img src="https://img.shields.io/badge/Made%20with-Python,%20bash%20and%20javascript-yellowgreen"/> <img src="https://img.shields.io/badge/Version-1.7-9cf"/>
