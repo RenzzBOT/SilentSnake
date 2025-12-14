@@ -2,7 +2,7 @@
 <details open>
   <summary><strong> Description </strong></summary>
 
-<img src="https://ibb.co.com/TM9Lmz7z/>
+
  <h2><img src="https://img.shields.io/badge/Author-RenzzX-blueviolet"/>
 <img src="https://img.shields.io/badge/Tool-SilentSnake-red"/>
 <img src="https://img.shields.io/badge/Made%20with-Python,%20bash%20and%20javascript-yellowgreen"/> <img src="https://img.shields.io/badge/Version-1.7-9cf"/>
@@ -23,7 +23,7 @@ This tracking tool can provide information about the telephone number you entere
   <p align="center">
 <img src="https://img.shields.io/static/v1?label=CreatedBy&color=blue&message=RenzzX&logo=Acclaim&logoColor=white&style=for-the-badge"><br>
   
-![20221214_220936-1](https://ibb.co.com/TM9Lmz7z)
+<a href="https://ibb.co.com/TM9Lmz7z"><img src="https://i.ibb.co.com/tpVX8yvy/renzzxraa-renzzxraa-profile.jpg" alt="renzzxraa-renzzxraa-profile" border="0" /></a>
 
 | Developer | Here |
 |--------|--------|
